@@ -3,7 +3,7 @@
 import 'package:flutter/material.dart';
 
 class MyColors {
-  static Color mainColor = const Color(0xff0099FF);
+  static Color mainColor = Color.fromARGB(255, 203, 82, 7);
   static Color unslectedIconColor = Colors.black.withOpacity(0.5);
   static const backgroundColor = Color(0xffF6F6F6);
   static const colorGrey = Color(0xff00000029);

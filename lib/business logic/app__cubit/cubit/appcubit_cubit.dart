@@ -5,7 +5,7 @@ import 'package:meta/meta.dart';
 import 'package:soumtech/core/constant/constants.dart';
 import 'package:soumtech/pressentaion/favourite/screens/favourite.dart';
 import 'package:soumtech/pressentaion/home/screen/home_screen.dart';
-import 'package:soumtech/pressentaion/notifications/screens/notifacation.dart';
+import 'package:soumtech/pressentaion/notification/screens/notifacation.dart';
 import 'package:soumtech/pressentaion/profile/screens/profile.dart';
 import 'package:soumtech/pressentaion/wallet/screens/wallet.dart';
 
@@ -13,7 +13,6 @@ part 'appcubit_state.dart';
 
 class AppCubit extends Cubit<AppStates> {
   AppCubit() : super(AppcubitInitial());
-
   static AppCubit get(context) => BlocProvider.of(context);
 //=======================================================================================================================================================
   int currentIndex = 0;
@@ -28,8 +27,6 @@ class AppCubit extends Cubit<AppStates> {
     currentIndex = index;
     emit(AppChangeBottomNavState());
   }
-
-  //=======================================================================================================================================================
 
   //=======================================================================================================================================================
   bool isArabic = false;
