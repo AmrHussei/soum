@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="Group_72761" data-name="Group 72761" transform="translate(-319 -120)">
+    <circle id="Ellipse_800" data-name="Ellipse 800" cx="20" cy="20" r="20" transform="translate(319 120)" fill="#2f6673"/>
+    <g id="vuesax_linear_tick-circle" data-name="vuesax/linear/tick-circle" transform="translate(-419.196 -58.196)">
+      <g id="tick-circle" transform="translate(748 188)">
+        <path id="Vector" d="M8.5,16.993A8.5,8.5,0,1,0,0,8.5,8.521,8.521,0,0,0,8.5,16.993Z" transform="translate(1.699 1.699)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <path id="Vector-2" data-name="Vector" d="M0,2.4l2.4,2.4L7.222,0" transform="translate(6.585 7.791)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <path id="Vector-3" data-name="Vector" d="M0,0H20.391V20.391H0Z" fill="none" opacity="0"/>
+      </g>
+    </g>
+  </g>
+</svg>

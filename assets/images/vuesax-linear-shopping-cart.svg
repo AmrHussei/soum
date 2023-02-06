@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21.686" height="21.686" viewBox="0 0 21.686 21.686">
+  <g id="vuesax_linear_shopping-cart" data-name="vuesax/linear/shopping-cart" transform="translate(-622 -188)">
+    <g id="shopping-cart" transform="translate(622 188)">
+      <path id="Vector" d="M0,0H1.572A1.672,1.672,0,0,1,3.235,1.807l-.75,9a2.526,2.526,0,0,0,2.521,2.738h9.623a2.6,2.6,0,0,0,2.539-2.358l.488-6.777a2.506,2.506,0,0,0-2.539-2.72H3.452" transform="translate(1.807 1.807)" fill="none" stroke="#a8afb7" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-2" data-name="Vector" d="M2.259,1.129A1.129,1.129,0,1,1,1.129,0,1.129,1.129,0,0,1,2.259,1.129Z" transform="translate(13.554 17.62)" fill="none" stroke="#a8afb7" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-3" data-name="Vector" d="M2.259,1.129A1.129,1.129,0,1,1,1.129,0,1.129,1.129,0,0,1,2.259,1.129Z" transform="translate(6.325 17.62)" fill="none" stroke="#a8afb7" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-4" data-name="Vector" d="M0,0H10.843" transform="translate(8.132 7.229)" fill="none" stroke="#a8afb7" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-5" data-name="Vector" d="M0,0H21.686V21.686H0Z" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>

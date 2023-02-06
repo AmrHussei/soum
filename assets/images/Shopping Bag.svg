@@ -1,0 +1,24 @@
+<svg id="Shopping_Bag" data-name="Shopping Bag" xmlns="http://www.w3.org/2000/svg" width="121.018" height="121.018" viewBox="0 0 121.018 121.018">
+  <g id="Group" transform="translate(-5.818 -1.164)">
+    <g id="_3._Shopping_Bag" transform="translate(5.818 1.164)">
+      <circle id="Oval" cx="58.182" cy="58.182" r="58.182" transform="translate(0 4.655)" fill="#e6f2fb"/>
+      <circle id="Oval-2" data-name="Oval" cx="3.491" cy="3.491" r="3.491" transform="translate(2.327 0)" fill="#b3c0ce"/>
+      <circle id="Oval-3" data-name="Oval" cx="3.491" cy="3.491" r="3.491" transform="translate(107.055 17.455)" fill="#2f6673"/>
+      <circle id="Oval-4" data-name="Oval" cx="3.491" cy="3.491" r="3.491" transform="translate(114.036 107.055)" fill="#b3c0ce"/>
+      <circle id="Oval-5" data-name="Oval" cx="3.491" cy="3.491" r="3.491" transform="translate(0 112.873)" fill="#2f6673"/>
+      <g id="Group_72776" data-name="Group 72776">
+        <path id="Path" d="M2.327,0H69.818a2.327,2.327,0,0,1,2.327,2.327V20.945H0V2.327A2.327,2.327,0,0,1,2.327,0Z" transform="translate(10.473 17.455)" fill="#dbdfec"/>
+        <path id="Path-2" data-name="Path" d="M72.145,2.327V74.473H14.417A58.182,58.182,0,0,1,0,60.055V2.327A2.327,2.327,0,0,1,2.327,0H69.818A2.327,2.327,0,0,1,72.145,2.327Z" transform="translate(10.473 36.073)" fill="#f9fafc"/>
+        <path id="Path-3" data-name="Path" d="M30.255,15.127v1.164H24.436V15.127a9.309,9.309,0,0,0-9.309-9.309h0a9.309,9.309,0,0,0-9.309,9.309v1.164H0V15.127A15.127,15.127,0,0,1,15.127,0h0A15.127,15.127,0,0,1,30.255,15.127Z" transform="translate(31.418 1.164)" fill="#dbdfec"/>
+        <path id="Path-4" data-name="Path" d="M0,5.818V0H5.818V5.818a9.309,9.309,0,0,0,9.309,9.309h0a9.309,9.309,0,0,0,9.309-9.309V0h5.818V5.818A15.127,15.127,0,0,1,15.127,20.945h0A15.127,15.127,0,0,1,0,5.818Z" transform="translate(31.418 45.382)" fill="#dbdfec"/>
+        <rect id="Rectangle" width="10.473" height="2.327" rx="1" transform="translate(29.091 43.055)" fill="#8691aa"/>
+        <rect id="Rectangle-2" data-name="Rectangle" width="10.473" height="2.327" rx="1" transform="translate(53.527 43.055)" fill="#8691aa"/>
+        <path id="Path-5" data-name="Path" d="M14.755,1.164h0a1.164,1.164,0,0,1-1.164,1.164H2.409C1.571,1.583.768.8,0,0H13.591A1.164,1.164,0,0,1,14.755,1.164Z" transform="translate(16.663 103.563)" fill="#fff"/>
+        <rect id="Rectangle-3" data-name="Rectangle" width="16.291" height="4.655" rx="1" transform="translate(15.127 94.254)" fill="#fff"/>
+      </g>
+      <rect id="Rectangle-4" data-name="Rectangle" width="9.309" height="2.327" rx="1" transform="translate(87.273 72.145)" fill="#fff"/>
+      <rect id="Rectangle-5" data-name="Rectangle" width="16.291" height="2.327" rx="1" transform="translate(87.273 66.327)" fill="#fff"/>
+      <rect id="Rectangle-6" data-name="Rectangle" width="9.309" height="2.327" rx="1" transform="translate(87.273 60.509)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
